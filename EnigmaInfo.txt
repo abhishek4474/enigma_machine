@@ -1,0 +1,4 @@
+The Enigma Machine was a special machine that helped encode and decode messages for the Germans. 
+This program has replicated the Enigma to the extent that is deemed possible. 
+The main principle of the Enigma has been maintained, which is that a message can be encoded and 
+decoded with the same initial settings and that it cannot encode a letter as itself.
